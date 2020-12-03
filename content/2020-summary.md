@@ -5,11 +5,13 @@ date: 2020-12-03T12:27:16+08:00
 
 ### 講者簡報
 
-[許智捷 - 區塊鏈的應用 零知識證明與驗證](2020-summary/blockchain-application.pdf)
+[Scott - 主持簡報](https://github.com/iii-cutting-edge-tech-lab/old-buddies-website/tree/main/static/2020-summary/host-slide.pdf)
 
-[李慶鴻 - 工作經驗分享](2020-summary/job-sharing.pdf)
+[許智捷 - 區塊鏈的應用 零知識證明與驗證](https://github.com/iii-cutting-edge-tech-lab/old-buddies-website/tree/main/static/2020-summary/blockchain-application.pdf)
 
-[Rico - 究竟 Kubernetes 哪裡受歡迎](2020-summary/why-kubernetes-popular.pdf)
+[李慶鴻 - 工作經驗分享](https://github.com/iii-cutting-edge-tech-lab/old-buddies-website/tree/main/static/2020-summary/job-sharing.pdf)
+
+[Rico - 究竟 Kubernetes 哪裡受歡迎](https://github.com/iii-cutting-edge-tech-lab/old-buddies-website/tree/main/static/2020-summary/why-kubernetes-popular.pdf)
 
 ### 活動照片
 
